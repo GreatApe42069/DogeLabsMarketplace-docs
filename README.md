@@ -1,4 +1,4 @@
-# doge-marketplace-docs
+# Doge-marketplace-docs
 
 **Steps:**
 
